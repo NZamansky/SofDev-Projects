@@ -25,3 +25,6 @@ Per 6
 * Login
   * Natan Zamansky, Deanna Taylor, Manservant Hecubus (Equus Troiae)
   * 6/login/Deanna_Natan_Hecubus
+* Project That Uses A Lot Of Data To Do Nothing
+  * Natan Zamansky, Rebecca Yuste-Golob
+  * https://github.com/NZamansky/Project-That-Uses-A-Lot-Of-Data-To-Do-Nothing.git
