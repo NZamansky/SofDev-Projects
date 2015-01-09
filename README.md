@@ -7,6 +7,11 @@ Per 6
 
 ## Main Projects
 
+###Final Project
+###Free Food Finder
+####Rebecca Yuste-Golob, Corrin Offenholley, Natan Zamansky
+####https://github.com/NZamansky/Free-Food-Finder.git
+
 ### Search Engine
 #### Natan Zamansky, Eric Liao, Philipp Steinman, Sadman Fahmid
 #### https://github.com/CallMeSenpai/ericliao_sadman_natan_philipp.git
