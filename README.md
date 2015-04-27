@@ -38,6 +38,6 @@ Per 6
 Period 6
 
 ###Final Project
-###Trip Lemus
+###Trip Lemur
 ####Leon Frajmund, Brian Sapozhnikov, Maria Vasilkin, Natan Zamansky
 ####https://github.com/bsapozhnikov/TripLemur
