@@ -33,3 +33,11 @@ Per 6
 * Project That Uses A Lot Of Data To Do Nothing
   * Natan Zamansky, Rebecca Yuste-Golob
   * https://github.com/NZamansky/Project-That-Uses-A-Lot-Of-Data-To-Do-Nothing.git
+
+#Spring Semester
+Period 6
+
+###Final Project
+###Trip Lemus
+####Leon Frajmund, Brian Sapozhnikov, Maria Vasilkin, Natan Zamansky
+####https://github.com/bsapozhnikov/TripLemur
